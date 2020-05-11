@@ -13,7 +13,7 @@ SECRET_KEY = '(=#m$xt=0h!7f*831b6aqd$76bl8lw0a)3_hi(+dv-=t11)_(r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iglcarpets.herokuapp.com']
 
 
 # Application definition
